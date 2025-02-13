@@ -10,7 +10,7 @@ import { SheetClose } from "@/components/ui/sheet";
 
 export const NAVLINKS = [
   {
-    title: "Documentation",
+    title: "Docs",
     href: `/docs${page_routes[0].href}`,
   },
   {
@@ -18,16 +18,8 @@ export const NAVLINKS = [
     href: "/blog",
   },
   {
-    title: "Examples",
-    href: "#",
-  },
-  {
-    title: "Guides",
-    href: "#",
-  },
-  {
-    title: "Community",
-    href: "https://github.com/nisabmohd/Aria-Docs/discussions",
+    title: "Contact",
+    href: "https://x.com/0xBuns",
   },
 ];
 
